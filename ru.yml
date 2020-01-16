@@ -1,4 +1,3 @@
-
 LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на §c%s'
 
 TOP_POSITION: '§e%s место'
@@ -852,7 +851,7 @@ GUI_HELP_ITEM_7_NAME: '§bСсылки'
 GUI_HELP_ITEM_7_LORE:
 - '§7Адрес сервера: §eplay.divinecraft.ru'
 - ''
-- '§7Группа Вконтакте: §fvk.com/divinecraftru'*
+- '§7Группа Вконтакте: §fvk.com/divinecraftru'
 - ''
 - '§7Сайт: §fdivinecraft.ru'
 - ''
