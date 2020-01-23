@@ -5785,7 +5785,7 @@ HIDER_DISABLE_LORE:
 - '§7чтобы скрыть игроков'
 #TITLE_JOIN_LOBBY: '§fГолосовой чат сервера!'
 #SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.divinecraft.ru'
-TITLE_JOIN_LOBBY: '§fС наступающим новым годом!'
+TITLE_JOIN_LOBBY: '§fДобро пожаловать!'
 SUBTITLE_JOIN_LOBBY: '§dDivineCraft'
 ALREADY_ON_SERVER: '§d§lDivineCraft §7| §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§aСКИДКИ!'
