@@ -341,7 +341,7 @@ SPECTATOR_SETTINGS_ITEM_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы изменить настройки'
 - '§7наблюдателя'
-ITEMS_LOBBY_SELECTOR_NAME: '§aИгровые режимы'
+ITEMS_LOBBY_SELECTOR_NAME: '§6Меню'
 ITEMS_LOBBY_SELECTOR_LORE:
 - '§7Универсальный прибор'
 - '§7для передвижения по'
