@@ -3424,6 +3424,7 @@ ERROR_WITH_YOUR_BUKKIT: '§cС Вашим аккаунтом произошла 
 CORE_NAME: '§cСервер'
 
 ISLAND_CREATE_TITLE: '§eОстров успешно создан!'
+ISLAND_IGNORE_MEMBER: '§cОшибка, данный игрок является участником острова!'
 ISLAND_TOP_LEVEL: 'уровень'
 ISLAND_TOP_LEVEL_HOLO:
 - '§6§lТоп по уровню острова'
