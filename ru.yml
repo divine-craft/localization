@@ -16,7 +16,7 @@ PERK_BS_HEALMAN: "BRAWLW_GENERATOR_TO_SPAWN"
 PERK_BS_GLOWER: "BRAWLW_GENERATOR_TO_SPAWN"
 PERK_BS_RESIST: "BRAWLW_GENERATOR_TO_SPAWN"
 PERK_BS_SAVER: "Шнырь-Курьер"
-PERK_BS_ENERGY: "Ярость победы"
+BS_ENERGY: "Ярость победы"
 PERK_BS_ENERGY_LORE:
 - ''
 - '§7Если идёт отсчёт до победы вашей команды и убивают игрока,'
