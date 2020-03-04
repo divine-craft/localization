@@ -11,6 +11,7 @@ BS_BOX_SUB_NAME: 'BS_BOX_SUB_NAME'
 BS_GENERATOR_NAME: 'BS_GENERATOR_NAME'
 BOARD_DIAMONDS: 'BOARD_DIAMONDS'
 BOARD_TAKE_DIAMONDS: 'BOARD_TAKE_DIAMONDS'
+//perks
 PERK_BS_RESPAWNER: 'BRAWLW_GENERATOR_TO_SPAWN'
 PERK_BS_HEALMAN: 'BRAWLW_GENERATOR_TO_SPAWN'
 PERK_BS_GLOWER: 'BRAWLW_GENERATOR_TO_SPAWN'
@@ -22,19 +23,32 @@ PERK_BS_ENERGY_LORE:
 - '§7Если идёт отсчёт до победы вашей команды и убивают игрока,'
 - '§7который хранит большую часть кристаллов вашей команды,'
 - '§7вы получаете скорость 1 на 10с. и Сопротивление урону 1 на 10с.'
+//characters
 CATEGORY_CHARACTER_NAME: 'Персонажи'
 CATEGORY_CHARACTER_LORE:
   - ' '
   - '§7Выбери своего персонажа'
   - '§7и отправляйся на поле боя!'
-CHARACTER_BS_BO: "Бо"
-CHARACTER_BS_BULL: "Булл"
-CHARACTER_BS_COLT: "Кольт"
-CHARACTER_BS_DYNAMIKE: "Динамайк"
-CHARACTER_BS_ELPRIMO: "Эль Примо"
-CHARACTER_BS_LION: "Леон"
-CHARACTER_BS_NITE: "Нита"
-CHARACTER_BS_SHELLY: "Шелли"
+CHARACTER_BS_BO: 'Бо'
+CHARACTER_BS_BULL: 'Булл'
+CHARACTER_BS_COLT: 'Кольт'
+CHARACTER_BS_DYNAMIKE: 'Динамайк'
+CHARACTER_BS_ELPRIMO: 'Эль Примо'
+CHARACTER_BS_LION: 'Леон'
+CHARACTER_BS_NITE: 'Нита'
+CHARACTER_BS_SHELLY: 'Шелли'
+
+
+
+
+
+
+
+
+
+
+
+
 
 TOP_POSITION: '§e%s место'
 LEVEL: 'уровень'
