@@ -16,7 +16,12 @@ PERKS_BS_HEALMAN: "BRAWLW_GENERATOR_TO_SPAWN"
 PERKS_BS_GLOWER: "BRAWLW_GENERATOR_TO_SPAWN"
 PERKS_BS_RESIST: "BRAWLW_GENERATOR_TO_SPAWN"
 PERKS_BS_SAVER: "BRAWLW_GENERATOR_TO_SPAWN"
-PERKS_BS_ENERGY: "BRAWLW_GENERATOR_TO_SPAWN"
+PERKS_BS_ENERGY: "Ярость победы"
+PERK_BS_ENERGY_LORE:
+- ''
+- '§7Если идёт отсчёт до победы вашей команды и убивают игрока,'
+- '§7который хранит большую часть кристаллов вашей команды,'
+- '§7вы получаете скорость 1 на 10с. и Сопротивление урону 1 на 10с.'
 //characters
 CHARACTER_BS_BO: "Бо"
 CHARACTER_BS_BULL: "Булл"
