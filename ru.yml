@@ -12,7 +12,7 @@ BS_ANY_COMMAND_TIMER_START: 'Изменился претендент на поб
 BS_END_TIMER_START: 'Это сообщение говорит о начале отсчёта до победы какойт команды, а вот как это писать, я хз'
 BS_GENERATOR_SPAWNED: '§aСгенерировано!'
 BS_GENERATOR_TO_SPAWN: '§fСпавн через §c%s §f%s'
-BS_BOX_SUB_NAME: ''
+BS_BOX_SUB_NAME: 'F'
 BS_GENERATOR_NAME: 'Кристаллы'
 BOARD_DIAMONDS: 'Кристаллы'
 BOARD_TAKE_DIAMONDS: 'Подобрано кристаллов'
@@ -45,23 +45,12 @@ CHARACTER_BS_LION: 'Леон'
 CHARACTER_BS_NITE: 'Нита'
 CHARACTER_BS_SHELLY: 'Шелли'
 BS_BO_BOW: 'Орлиный глаз'
-BS_BO_BOW_LORE:
+BS_BO_BOW_LORE: 'Скана'
 BS_COLT_BOW: 'Револьвер'
-BS_COLT_BOW_LORE:  
+BS_COLT_BOW_LORE: 'Скана'
 BS_BULL_SWORD: 'Грэм'
-BS_BULL_SWORD_LORE:
+BS_BULL_SWORD_LORE: 'Скана'
 BS_DYNAMIKE_SWORD: 'Скана'
-BS_DYNAMIKE_SWORD_LORE:
-
-
-
-
-
-
-
-
-
-
 
 TOP_POSITION: '§e%s место'
 LEVEL: 'уровень'
