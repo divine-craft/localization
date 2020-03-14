@@ -1,15 +1,14 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 
-CHARACTER_SELECTION_MESSAGE: 'Персонаж выбран успешно!'
-BRAWL_STARS_TEAM_TYPE: 'Тим тайп'
+CHARACTER_SELECTION_MESSAGE: '§6BrawlStars §7| §aПерсонаж выбран успешно!'
 DIAMONDS_STAT: 'Кристаллов подобрано'
 BSC_GAME_DESC: 'Игра началась!'
-BS_SECONDS_LEFT_TO_WIN_ARG: 'BrawlStars| До победы осталось %s cекунд'
+BS_SECONDS_LEFT_TO_WIN_ARG: '§6BrawlStars §7| §aДо победы осталось §c%s §acекунд!'
 BS_GAME_STARTED_SUBTITLE: '§dСоберите как можно больше кристаллов!'
 BS_DIAMOND_GENERATOR: 'Генератор'
-BS_END_TIMER_DECLINED: 'Отсчёт остановлен'
-BS_ANY_COMMAND_TIMER_START: 'Изменился претендент на победу. Таймер перезапущен.'
-BS_END_TIMER_START: 'Это сообщение говорит о начале отсчёта до победы какойт команды, а вот как это писать, я хз'
+BS_END_TIMER_DECLINED: '§6BrawlStars §7| §aОтсчёт остановлен.'
+BS_ANY_COMMAND_TIMER_START: '§6BrawlStars §7| §aИзменился претендент на победу. Таймер перезапущен.'
+BS_END_TIMER_START: '§6BrawlStars §7| §aЛидирующая команда начала отсчёт времени до победы.'
 BS_GENERATOR_SPAWNED: '§aСгенерировано!'
 BS_GENERATOR_TO_SPAWN: '§fСпавн через §c%s §f%s'
 BS_BOX_SUB_NAME: 'F'
@@ -33,24 +32,56 @@ CATEGORY_CHARACTER_LORE:
   - '§7Выбери своего персонажа'
   - '§7и отправляйся на поле боя!'
 CHARACTER_BS_BO: 'Бо'
+CHARACTER_BS_BO_LORE:
+  - ' '
+  - '§7Лук Бо уникальный в своём роде,'
+  - '§7Он способен выпускать взрывные стрелы!'
 CHARACTER_BS_BULL: 'Булл'
 CHARACTER_BS_BULL_LORE:
   - ' '
   - '§7Булл крепкий боец, способный идти напролом,'
   - '§7а его меч имеет большой урон!'
 CHARACTER_BS_COLT: 'Кольт'
+CHARACTER_BS_COLT_LORE:
+  - ' '
+  - '§7Кольт боец дальнего боя с уникальным револьвером,'
+  - '§7выстрелы из него невероятно точны'
 CHARACTER_BS_DYNAMIKE: 'Динамайк'
+CHARACTER_BS_DYNAMIKE_LORE:
+  - ' '
+  - '§7Этот сумасшедший, вооруживщись мечом,' 
+  - '§7бегает быстрее обычных героев,'
+  - '§7а ещё у него полным полно взрывчатки!'
 CHARACTER_BS_ELPRIMO: 'Эль Примо'
+CHARACTER_BS_ELPRIMO_LORE:
+  - ' '
+  - '§7Этот чемпион в боях без правил,'
+  - '§7имеет крайне сильные руки,'
+  - '§7следует избегать близких встреч с ним.'
 CHARACTER_BS_LION: 'Леон'
+CHARACTER_BS_LION_LORE: 
+  - ' '
+  - '§7Этот с виду слабый парень,'
+  - '§7является проффесиональным убийцей!'
+  - '§7лучше не терять его из виду...'
 CHARACTER_BS_NITE: 'Нита'
+CHARACTER_BS_NITE_LORE:
+  - ' '
+  - '§7Нита эта танк дальнего боя,'
+  - '§7а ещё у неё ручной медвежуть!'
 CHARACTER_BS_SHELLY: 'Шелли'
+CHARACTER_BS_SHELLY_LORE:
+  - ' '
+  - '§7Шелли прекрасный боец,'
+  - '§7закалённый не в одном десятке боёв!'
 BS_BO_BOW: 'Орлиный глаз'
-BS_BO_BOW_LORE: 'Скана'
+BS_BO_BOW_LORE: 'Невероятно мощно оружие в руках настоящего бойца.'
 BS_COLT_BOW: 'Револьвер'
-BS_COLT_BOW_LORE: 'Скана'
+BS_COLT_BOW_LORE: 'Лучше него, только два таких.'
 BS_BULL_SWORD: 'Грэм'
-BS_BULL_SWORD_LORE: 'Скана'
+BS_BULL_SWORD_LORE: 'Этот меч был найден в пустошах Смауга.'
 BS_DYNAMIKE_SWORD: 'Скана'
+BS_DYNAMIKE_SWORD_LORE: 'Этот меч был когда-то создан тамплиерами.'
 
 TOP_POSITION: '§e%s место'
 LEVEL: 'уровень'
@@ -2092,7 +2123,7 @@ AUTH_NOTIFICATION_TITLE_LOGIN: §7Для продолжения авторизу
 AUTH_TIME_EXPIRED: §cВремя авторизации истекло
 ALREADY_AUTHORIZED: §cВы уже авторизованы!
 FAIL_AUTH: §cОшибка, неверный пароль!
-SUCCESS_AUTH: §fАвторизация успешна! Приятной игры :)
+SUCCESS_AUTH: §fПароль введён верно! Приятной игры!
 YOU_HAVE_JUST_LOGGED_OUT: §cВы вышли из своего аккаунта
 NOT_PREMIUM_ANYMORE: §6Лицензия §8| §fВход через лицензию отключен, надеюсь ты помнишь свой пароль, ибо он тебе пригодится
 YOU_ARE_NOW_PREMIUM: §6Лицензия §8| §fПоздравляем, теперь вход возможен только с §aлицензионного аккаунта!
@@ -8939,10 +8970,10 @@ SKIN_BW_PIG_ZOMBIE_LORE:
 - '§8Хрю-хрю!'
 - ''
 
-SOUND_BW_GUARDIAN: 'Смерть Warriorа'
+SOUND_BW_GUARDIAN: 'Смерть охранника'
 SOUND_BW_GUARDIAN_LORE:
 - ''
-- '§7Вместо с кроватью пал Warrior, защищающий её..'
+- '§7Вместо с кроватью пал охранник, защищающий её..'
 SOUND_BW_LAUGHTER: 'Надсмешка'
 SOUND_BW_LAUGHTER_LORE:
 - ''
