@@ -1,10 +1,5 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 
-GAMEMENU_BRAWLSTARS_LORE:
-- '§8Битва за честь'
-- ''
-- '§7Режим для настоящих бравлеров.'
-- '§7Запускай, стань одним из нас.'
 CHARACTER_SELECTION_MESSAGE: '§6BrawlStars §7| §aПерсонаж выбран успешно!'
 DIAMONDS_STAT: 'Кристаллов подобрано'
 BSC_GAME_DESC: 'Игра началась!'
@@ -1547,6 +1542,12 @@ GAMEMENU_ITEM_NEW_NAME: '§lНовый!'
 GAMEMENU_ITEM_WIPE: '§lСделали вайп!'
 GAMEMENU_CLICKCONNECT_LORE: 'Нажмите, чтобы подключиться'
 GAMEMENU_VERSION: '§fРекомендуемая версия для игры %s'
+GAMEMENU_BRAWLSTARS_LORE:
+- '§8Битва за честь'
+- ''
+- '§7Режим для настоящих бравлеров.'
+- '§7Запускай, стань одним из нас.'
+- ''
 GAMEMENU_SKYWARS_LORE:
 - '§8Битвы на островах'
 - ''
