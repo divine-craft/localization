@@ -5277,6 +5277,8 @@ INGAME_STATS_MESSAGES_TITLE:
 INGAME_STATS_MESSAGES:
 - '§6Статистика §8| §f%s %s §fна §e%s %s§f:'
 INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
+BSC_GAME_DESC:
+- 'Ваша задача играть. Просто играть и наслаждаться.'
 LWS_GAME_DESC:
 - 'Ваша задача играть. Просто играть и наслаждаться.'
 LWD_GAME_DESC:
