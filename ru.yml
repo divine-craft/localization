@@ -12,7 +12,6 @@ BS_ANY_COMMAND_TIMER_START: 'Изменился претендент на поб
 BS_END_TIMER_START: 'Это сообщение говорит о начале отсчёта до победы какойт команды, а вот как это писать, я хз'
 BS_GENERATOR_SPAWNED: '§aСгенерировано!'
 BS_GENERATOR_TO_SPAWN: '§fСпавн через §c%s §f%s'
-BS_BOX_SUB_NAME: ''
 BS_GENERATOR_NAME: 'Кристаллы'
 BOARD_DIAMONDS: 'Кристаллы'
 BOARD_TAKE_DIAMONDS: 'Подобрано кристаллов'
