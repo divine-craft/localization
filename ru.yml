@@ -1,5 +1,10 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 
+GAMEMENU_BRAWLSTARS_LORE:
+- '§8Битва за честь'
+- ''
+- '§7Режим для настоящих бравлеров.'
+- '§7Запускай, стань одним из нас.'
 CHARACTER_SELECTION_MESSAGE: '§6BrawlStars §7| §aПерсонаж выбран успешно!'
 DIAMONDS_STAT: 'Кристаллов подобрано'
 BSC_GAME_DESC: 'Игра началась!'
