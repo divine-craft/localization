@@ -4500,7 +4500,7 @@ KIT_SG_COOK_LORE:
 - '§7Содержит в себе:'
 - ' §8• §7Стэйк §8(x6)'
 - ' §8• §7Хлеб §8(x4)'
-- ' §8• §7дивинитие яблоко §8(x2)'
+- ' §8• §7золотое яблоко §8(x2)'
 - ' §8• §7Торт'
 - ' §8• §7Кожаный нагрудник'
 - ' §8• §7Кожаные штаны'
@@ -4993,7 +4993,7 @@ KIT_SW_INSANE_ARMADILLO_LORE:
 - ' §8• §7Железные ботинки'
 - ' §8• §7Щит §8(Прочность X)'
 - ' §8• §7Взрывное зелье восстановления §8(x2)'
-- ' §8• §7дивинитие яблоко §8(x2)'
+- ' §8• §7золотое яблоко §8(x2)'
 KIT_SW_INSANE_SNIPER: 'Снайпер'
 KIT_SW_INSANE_SNIPER_LORE:
 - ''
@@ -5868,7 +5868,7 @@ ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE:
 ISLAND_ACHIEVEMENT_FURNACE_LORE:
 - '§8 • §7Печь §fх1'
 ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE:
-- '§8 • §7дивинитие яблоко §fх1'
+- '§8 • §7золотое яблоко §fх1'
 ISLAND_ACHIEVEMENT_BREAK_NAME: 'Сломать блоки'
 ISLAND_ACHIEVEMENT_OBSIDIAN_LORE:
 - '§8 • §7Обсидиан §fх32'
@@ -9244,7 +9244,7 @@ FISHING_ROD: 'Удочка'
 BREAD: 'Хлеб'
 CAKE: 'Торт'
 GRILLED_PORK: 'Свинина'
-GOLDEN_APPLE: 'дивинитие яблоко'
+GOLDEN_APPLE: 'золтое яблоко'
 SPEED_POTION: 'Зелье скорости'
 JUMP_POTION: 'Зелье прыгучести II'
 STRENGTH_POTION: 'Зелье силы'
