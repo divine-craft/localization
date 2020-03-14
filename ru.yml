@@ -1,6 +1,7 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 
 CHARACTER_SELECTION_MESSAGE: '§6Персонаж выбран успешно!'
+CHARACTER: '§6Персонаж'
 DIAMONDS_STAT: 'Кристаллов подобрано'
 BSC_GAME_DESC: 'Игра началась!'
 BS_SECONDS_LEFT_TO_WIN_ARG: '§6BrawlStars §7| §6До победы осталось §c%s §acекунд!'
@@ -599,7 +600,7 @@ MONEY_1:
 - 'серебр'
 - 'а'
 - 'ы'
-- ''
+- 'а'
 MONEY_2:
 - 'серебр'
 - 'y'
