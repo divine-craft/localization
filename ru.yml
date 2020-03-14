@@ -1,9 +1,9 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 
-CHARACTER_SELECTION_MESSAGE: '§6BrawlStars §7| §aПерсонаж выбран успешно!'
+CHARACTER_SELECTION_MESSAGE: '§6Персонаж выбран успешно!'
 DIAMONDS_STAT: 'Кристаллов подобрано'
 BSC_GAME_DESC: 'Игра началась!'
-BS_SECONDS_LEFT_TO_WIN_ARG: '§6BrawlStars §7| §aДо победы осталось §c%s §acекунд!'
+BS_SECONDS_LEFT_TO_WIN_ARG: '§6BrawlStars §7| §6До победы осталось §c%s §acекунд!'
 BS_GAME_STARTED_SUBTITLE: '§dСоберите как можно больше кристаллов!'
 BS_DIAMOND_GENERATOR: 'Генератор'
 BS_END_TIMER_DECLINED: '§6BrawlStars §7| §aОтсчёт остановлен.'
