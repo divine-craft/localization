@@ -16,11 +16,30 @@ BS_BOX_SUB_NAME: 'F'
 BS_GENERATOR_NAME: 'Кристаллы'
 BOARD_DIAMONDS: 'Кристаллы'
 BOARD_TAKE_DIAMONDS: 'Подобрано кристаллов'
-PERK_BS_RESPAWNER: 'Имя'
-PERK_BS_HEALMAN: 'Имя'
-PERK_BS_GLOWER: 'Имя' 
-PERK_BS_RESIST: 'Имя'
+PERK_BS_RESPAWNER: 'Молния Маккуин'
+PERK_BS_RESPAWNER_LORE:
+- ''
+- '§7Если вы погибли от рук другого игрока, то вы получаете Скорость II'
+PERK_BS_HEALMAN: 'Вампир'
+PERK_BS_HEALMAN_LORE:
+- ''
+- '§7Убийство врага даёт вам 1 жёлтое сердце на 1 минуту,'
+- '§7если убитый полностью в броне, то 2 жёлтых сердца'
+PERK_BS_GLOWER: 'Пометка' 
+PERK_BS_GLOWER_LORE: 
+- ''
+- '§7При попадании во врага из лука, вы накладываете на врага,'
+- '§7эффект свечения на 30 секунд. При убийстве врага под свечением'
+- '§7вы восстанавливаете 4 здоровья'
+PERK_BS_RESIST: 'Бык'
+PERK_BS_RESIST_LORE:
+- ''
+- '§7При получении урона есть шанс 25% получить,'
+- '§7Сопротивление урону I на 6 секунды'
 PERK_BS_SAVER: 'Шнырь-Курьер'
+PERK_BS_SAVER_LORE:
+- ''
+- '§7Если в инвентаре есть 5 кристаллов, то вы получаете скорость 1.'
 PERK_BS_ENERGY: 'Ярость победы'
 PERK_BS_ENERGY_LORE:
 - ''
@@ -95,15 +114,20 @@ CHARACTER_BS_SHELLY_LORE:
   - '§7Шелли прекрасный боец,'
   - '§7закалённый не в одном десятке боёв!'
 BS_BO_BOW: 'Argonak'
-BS_BO_BOW_LORE: 'Невероятно мощное оружие в руках настоящего бойца.'
+BS_BO_BOW_LORE: 
+- 'Невероятно мощное оружие в руках настоящего бойца.'
 BS_COLT_BOW: 'Dex Sybaris'
-BS_COLT_BOW_LORE: 'Лучше него, только два таких.'
+BS_COLT_BOW_LORE: 
+- 'Лучше него, только два таких.'
 BS_BULL_SWORD: 'Gram'
-BS_BULL_SWORD_LORE: 'Этот меч был найден в пустошах Смауга.'
+BS_BULL_SWORD_LORE: 
+- 'Этот меч был найден в пустошах Смауга.'
 BS_DYNAMIKE_SWORD: 'Skana'
-BS_DYNAMIKE_SWORD_LORE: 'Этот меч был когда-то создан тамплиерами.'
+BS_DYNAMIKE_SWORD_LORE: 
+- 'Этот меч был когда-то создан тамплиерами.'
 BS_SHELLY_BOW: 'Paris'
-BS_SHELLY_BOW_LORE: ''
+BS_SHELLY_BOW_LORE: 
+- 'Крайне меткий лук'
 
 TOP_POSITION: '§e%s место'
 LEVEL: 'уровень'
