@@ -21,7 +21,7 @@ SKILL_READY: '§aСпособность готова. Действуйте. '
 SKILL_READY_AFTER_ARG: 'Перезарядка ещё §c%s §fсекунд.'
 BOARD_TAKE_DIAMONDS: 'Подобрано кристаллов'
 BS_SHELLY_ITEM: 'Картечь'
-TEMP_NOT_WORK: 'Временно не работает :('
+TEMP_NOT_WORK: '§6SkyBlock §7| §cВременно не работает :('
 BS_SHELLY_ITEM_LORE: 
 - ''
 - 'Выпускает стрелы, перезарядка 12сек'
