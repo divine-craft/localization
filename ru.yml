@@ -4246,8 +4246,8 @@ ISLAND_ADDLEVEL_LORE:
 - ''
 - '§7PS: Можно класть сразу стак блоков §8(х64)'
 ISLAND_ADDLEVEL_HELP_NAME: 'Информация'
-ISLAND_ADDLEVEL_NAME: 'Нажмите, чтобы сдать все ресурсы'
-ISLAND_ADDLEVEL_LORE:
+ISLAND_ADDLEVEL_FULL_NAME: 'Нажмите, чтобы сдать все ресурсы'
+ISLAND_ADDLEVEL_FULL_LORE:
 - ''
 - '§7Как только вы нажмёте на эту кнопку'
 - '§7Все драгоценные ресурсы в инвентаре пропадут,'
