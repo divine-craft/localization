@@ -1,6 +1,6 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 PASSWORD_DISCREDITED: '§c⚠ Внимание! §cТвой пароль небезопасный! Сменить - §l/changepassword'
-PASSWORD_DISCREDITED_TITLE: '§e⚠ §cнебезопасный пароль §e⚠ '
+PASSWORD_DISCREDITED_TITLE: '§e⚠ §cНебезопасный пароль §e⚠ '
 PASSWORD_DISCREDITED_SUBTITLE: '§cСменить пароль — /changepassword'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§6Общая информация'
 CHARACTER_SELECTION_MESSAGE: '§6Персонаж выбран успешно!'
