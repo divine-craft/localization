@@ -669,7 +669,7 @@ SPECTATOR_MAIN_LORE:
 - '§e➜ ПКМ, чтобы наблюдать от 1-ого лица'
 
 START_TITLE_MSG: 'СТАРТ'
-WELCOME_TITLE: '§fТолько сегодня, скидки §c30%!'
+WELCOME_TITLE: '§fТолько сейчас, скидки §c30%!'
 TO_START_TITLE: '§fДо старта'
 
 SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
