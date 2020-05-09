@@ -39,7 +39,7 @@ TEMP_NOT_WORK: '§6SkyBlock §7| §cВременно не работает :('
 VANISH_ENABLE: 'Режим наблюдения §aвключён§7.'
 VANISH_DISABLE: 'Режим наблюдения §cвыключен§7.'
 SKYBLOCK_NEED_MORE_XP: '§7Вам необходимо ещё §c1 §7уровень, чтобы воспользоваться автокрафтом.'
-SKYBLOCK_XP_SUCCESS: '§7Вы успешно воспользовались автокрафтом. С вас снят §с1 §7уровень.'
+SKYBLOCK_XP_SUCCESS: '§7Вы успешно воспользовались автокрафтом. С вас снят §c1 §7уровень.'
 SKYBLOCK_XP_FAIL: '§7Отмена операции, нет предметов для автокрафта.'
 GAMEMENU_SB_LORE_1:
 - ''
@@ -669,7 +669,7 @@ SPECTATOR_MAIN_LORE:
 - '§e➜ ПКМ, чтобы наблюдать от 1-ого лица'
 
 START_TITLE_MSG: 'СТАРТ'
-WELCOME_TITLE: '§fТолько сегодня, скидки §f30%?с!'
+WELCOME_TITLE: '§fТолько сегодня, скидки §c30%!'
 TO_START_TITLE: '§fДо старта'
 
 SELECTOR_TEAM_NAME_INV: 'Выбор команды: %s'
@@ -5766,8 +5766,8 @@ YOU_ARE_MUTED:
 - ' §b§nvk.com/divinecraftru'
 - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
 YOU_WERE_UNMUTED: '§d§lDivineCraft §7| §fДоступ к чату был восстановлен! Вы снова можете говорить!'
-BROADCAST_MUTE: '§d§lDivineCraft §7| §f%s §7заблокировал чат игрока §с%s §7на §с%s §7по причине §e%s'
-BROADCAST_BAN: '§d§lDivineCraft §7| §7%s §7заблокировал %s §a%s §7на §с%s §7по причине §e%s'
+BROADCAST_MUTE: '§d§lDivineCraft §7| §f%s §7заблокировал чат игрока §c%s §7на §c%s §7по причине §e%s'
+BROADCAST_BAN: '§d§lDivineCraft §7| §7%s §7заблокировал %s §a%s §7на §c%s §7по причине §e%s'
 BROADCAST_UNMUTE: '§d§lDivineCraft §7| §f%s §7разблокировал чат игрока %s'
 BROADCAST_KICK: '§d§lDivineCraft §7| §f%s §7кикнул §a%s §7по причине §e%s'
 BROADCAST_UNBAN: '§d§lDivineCraft §7| §f%s §7снял бан с %s'
