@@ -1,8 +1,8 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 DONATE_SITE_LINK: '§fПерейти на сайт и поддержать сервер: §cdivinecraft.ru'
 
-DONATE_TITLE: '§c⚠ %s §c⚠'
-DONATE_SUBTITLE: '§fСтал круче со скидкой §c30%§f! Сайт: divinecraft.ru'
+DONATE_TITLE: '%s'
+DONATE_SUBTITLE: '§fПоддержал сервер, попробуй и ты! Сайт: §cdivinecraft.ru'
 
 DONATE_GROUP_BUY: 
 - ''
