@@ -3,6 +3,7 @@ DONATE_SITE_LINK: '§fПерейти на сайт и поддержать се�
 
 DONATE_TITLE: '%s'
 DONATE_SUBTITLE: '§fПоддержал сервер, попробуй и ты! Сайт: §cdivinecraft.ru'
+DONATE_ACTION_BAR: '§fЭто действительно помогает нам. Сайт: §cdivinecraft.ru'
 
 DONATE_GROUP_BUY: 
 - ' '
