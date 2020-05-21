@@ -4211,6 +4211,55 @@ ISLAND_UPGRADE_NETHER_NAME: 'Ад'
 ISLAND_UPGRADE_NETHER_LORE:
 -
 - '§7Покупка ада'
+ISLAND_UPGRADE_END_NAME: 'Энд'
+ISLAND_UPGRADE_END_LORE:
+-
+- '§7Покупка энда'
+ISLAND_UPGRADE_ENABLE_MEGA_BLOCKS_NAME: 'Новые блоки'
+ISLAND_UPGRADE_ENABLE_MEGA_BLOCKS_LORE:
+-
+- '§7Доступ к новым блокам'
+ISLAND_UPGRADE_WELCOME_MESSAGE_NAME: 'Приветствие'
+ISLAND_UPGRADE_WELCOME_MESSAGE_LORE:
+-
+- '§7Приветствие в чат'
+ISLAND_UPGRADE_WELCOME_TITLE_MESSAGE_NAME: 'Приветствие II'
+ISLAND_UPGRADE_WELCOME_TITLE_MESSAGE_LORE:
+-
+- '§7Приветствие на весь экран'
+ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_NAME: 'Экономия топлива'
+ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_LORE:
+-
+- '§7Экономия топлива в печке'
+ISLAND_UPGRADE_EFFICIENCY_FURNACE_NAME: 'Ускоренная печка'
+ISLAND_UPGRADE_EFFICIENCY_FURNACE_LORE:
+-
+- '§7Ускорение скорости работы печки'
+ISLAND_UPGRADE_EXTENDED_EXP_LOOT_NAME: 'Мания опыта'
+ISLAND_UPGRADE_EXTENDED_EXP_LOOT_LORE:
+-
+- '§7Увеличенное выпадение опыта'
+ISLAND_UPGRADE_FASTEST_SPAWNER_NAME: 'Ускорение спавнера'
+ISLAND_UPGRADE_FASTEST_SPAWNER_LORE:
+-
+- '§7Спавнер начинает работать чаще'
+ISLAND_UPGRADE_MORE_MOBS_SPAWNER_NAME: 'Мания мобов'
+ISLAND_UPGRADE_MORE_MOBS_SPAWNER_LORE:
+-
+- '§7Спавнер генерирует больше мобов'
+ISLAND_UPGRADE_ISLAND_LEVEL_EXP_INCOME_NAME: 'Бизнесмен'
+ISLAND_UPGRADE_ISLAND_LEVEL_EXP_INCOME_LORE:
+-
+- '§7Остров самостоятельно увеличивает опыт'
+ISLAND_UPGRADE_EXP_INCOME_NAME: 'На опыте'
+ISLAND_UPGRADE_EXP_INCOME_LORE:
+-
+- '§7Автоматическая добыча опыта'
+ISLAND_UPGRADE_EXPENSIVE_PLANTS_NAME: 'Бешенные растения'
+ISLAND_UPGRADE_EXPENSIVE_PLANTS_LORE:
+-
+- '§7Растения начинают расти быстрее'
+
 ISLAND_UPGRADE_TERRITORY_NAME: 'Улучшение территории'
 ISLAND_UPGRADE_TERRITORY_LORE:
 - ' '
