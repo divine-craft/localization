@@ -3996,6 +3996,9 @@ ISLAND_BIOME_BUY: '§6SkyBlock §8| §fВы успешно купили биом
 ISLAND_BIOME_BUY_TO: '§6SkyBlock §8| §fИгрок %s §fкупил биом §c%s §fза §a%s изумрудных блока'
 ISLAND_BIOME_BUY_ALREADY: '§6SkyBlock §8| §fВы уже владеете данным биомом'
 ISLAND_BEACON_BUY_ALREADY: '§6SkyBlock §8| §fВы уже владеете данным эффектом'
+SKYBLOCK_UPGRADE_GREETING: 'Добро пожаловать на остров %s'
+SKYBLOCK_UPGRADE_GREETING_TITLE: 'Тайтл'
+SKYBLOCK_UPGRADE_GREEETING_SUBTITLE: 'Сабтайтл'
 ISLAND_CLICK_TO_SET_BIOME: '§e➜ Нажмите, чтобы выбрать биом'
 ISLAND_CLICK_TO_SET_BIOME_ERROR:
 - '§7Цена: §ax%s изумрудных блоков'
