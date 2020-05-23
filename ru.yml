@@ -5865,7 +5865,7 @@ BANINFO_MUTE_MESSAGES:
 DONT_HAVE_BANS_AND_MUTES: '§cНе в бане и не в муте'
 BANINFO_BY_ANOTHER: '§7[по просьбе %s]'
 KICK_DISCONNECT: '§cВас выкинули с сервера\n\n§fВыкинул: §7%s\n§fПричина: §7%s'
-STAFF_CONNECTED_IP: '[IP: %s]'
+STAFF_CONNECTED_IP: '[IP: Временно скрыт]'
 STAFF_CONNECTED: '§d§lDivineCraft §7| §7%s §7зашел на сервер %s'
 BAN_REQUEST_BROADCAST:
 - '§d§lDivineCraft §7| §7%s §7просит заблокировать %s §7на §7%s §7по причине §e%s'
