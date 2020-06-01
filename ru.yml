@@ -1,7 +1,8 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 DONATE_SITE_LINK: '§fПерейти на сайт и поддержать сервер: §cdivinecraft.ru'
 
-HELP_FORMAT: '§d§lDivineCraft §7| §fИспользуйте §a/help <вопрос>'
+HELP_FORMAT: '§fИспользуйте §a/help <вопрос>'
+HELPANSWER_FORMAT: '§fИспользуйте §a/ha <ник> <ответ>'
 
 DONATE_TITLE: '%s'
 DONATE_SUBTITLE: '§fПоддержал сервер со скидкой 25%! Сайт: §cdivinecraft.ru'
