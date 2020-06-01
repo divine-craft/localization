@@ -1,6 +1,7 @@
 LANGUAGE_CHANGE: '§d§lDivineCraft §7| §fВаш язык изменен на §c%s'
 DONATE_SITE_LINK: '§fПерейти на сайт и поддержать сервер: §cdivinecraft.ru'
 
+HELP_FORMAT: '§d§lDivineCraft §7| §fИспользуйте §a/help <вопрос>'
 
 DONATE_TITLE: '%s'
 DONATE_SUBTITLE: '§fПоддержал сервер со скидкой 25%! Сайт: §cdivinecraft.ru'
@@ -2433,6 +2434,7 @@ STAFFCHAT_FORMAT: '/staffchat <сообщение>'
 DONATECHAT_FORMAT: '/donatechat <сообщение>'
 STAFFCHAT_MSG: '§eЧат персонала §8| §f%s §8» §f%s'
 DONATECHAT_MSG: '§6Чат донатеров §8| §f%s §8» §7%s'
+HELPOP_MSG: '§5Поддержка §8| §f%s §8» §7%s'
 YOU_HAVE_DONATECHAT_COOLDOWN: '§cПисать в чат донатеров можно раз в 30 секунд'
 CANT_MESSAGE_YOURSELF: '§cВы не можете написать самому себе'
 STAFFCHAT_ENABLED: '§d§lDivineCraft §7| §f%s §7снова видит чат персонала'
