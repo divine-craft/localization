@@ -2444,7 +2444,7 @@ HELPOP_TICKET_REGISTERED: '§сПомощь §8| §6Ваше обращение 
 HLEPOP_TICKET_NOT_FOUND: '§c§lH §8| §6Данный пользователь не задавал вопрос.'
 HELPOP_ALREADY: '§c§lH §8| §6На этот вопрос уже ответили.'
 HELPOP_ACTIONBAR: '§cВам пришёл ответ из технической поддержки!'
-HELPOP_CURRENT_TICKETS: '§c§lH §8|§f%s §8» §7%'
+HELPOP_CURRENT_TICKETS: '§c§lH §8|§f%s §8» §7%s'
 
 YOU_HAVE_DONATECHAT_COOLDOWN: '§cПисать в чат донатеров можно раз в 30 секунд'
 CANT_MESSAGE_YOURSELF: '§cВы не можете написать самому себе'
