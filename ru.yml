@@ -10920,3 +10920,15 @@ BS_DYNAMIKE: '§eДинамайк'
 BS_ELPRIMO: '§eЭль Примо'
 BS_NITE: '§bНита'
 BS_LEON: '§dЛеон'
+
+ISLAND_SELECTION_GUI: 'Селекции'
+ISLAND_SELECTION_LORE:
+- ''
+- '§7Покупка селекций и информация о них'
+- ' '
+- '§e➜ Нажмите, чтобы открыть'
+
+CROPS_EMERALD_SELECTION_BREAK: '§aИзумрудная пшеница (сбор)'
+CROPS_EMERALD_SELECTION_GROW: '§aИзумрудная пшеница (рост)'
+CROPS_DIAMOND_SELECTION_BREAK: '§aАлмазная пшеница (сбор)'
+CROPS_DIAMOND_SELECTION_GROW: '§aАлмазная пшеница (рост)'
