@@ -4,7 +4,7 @@ BOSS_GUI: 'Боссы'
 QUEST_GUI: 'Квесты'
 HELP_FORMAT: '/help <вопрос>'
 HELPANSWER_FORMAT: '/ha <ник> <ответ>'
-
+HOLO_SKYBLOCK_BOSS_NPC: '§eВластитель боссов'
 DONATE_TITLE: '%s'
 DONATE_SUBTITLE: '§fПоддержал сервер со скидкой 25%! Сайт: §cdivinecraft.ru'
 DONATE_ACTION_BAR: '§fПоддержать проект можно по ссылке §cdivinecraft.ru'
