@@ -2426,7 +2426,7 @@ SPECTATOR_MODE: 'Спектатор'
 INVALID_RULE: '§cОшибка! Неверно указан номер правила, список правил можно посмотреть командой §e/rules'
 INVALID_FLAG: '§cНеизвестный флаг: %s'
 BROADCAST_MUTE: '§d§lDivineCraft §7| §f%s §7заблокировал чат %s §с%s §7на §с%s §7по причине '
-BROADCAST_BAN: '§d§lDivineCraft §7|| §7%s §7заблокировал %s §a%s §7на §с%s §7по причине '
+BROADCAST_BAN: '§d§lDivineCraft §7| §7%s §7заблокировал %s §a%s §7на §с%s §7по причине '
 BROADCAST_UNMUTE: '§d§lDivineCraft §7| §f%s §7разблокировал чат игрока %s'
 BANINFO_BAN_MESSAGES:
 - ' '
