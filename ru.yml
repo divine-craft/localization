@@ -1800,6 +1800,8 @@ GAMEMENU_CREATIVE_LORE:
 - ''
 - '§7Придумывай, твори, показывай'
 - ''
+GAMEMENU_CLASSIC_LORE:
+- '§8Тестовый сервер 1.16'
 
 TYPE_SOLO: 'Одиночный режим'
 TYPE_DOUBLES: 'Парный режим'
