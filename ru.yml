@@ -8,7 +8,7 @@ HOLO_SKYBLOCK_BOSS_NPC:
 - '§eВластитель боссов'
 - '§7Нажмите, чтобы открыть'
 
-
+GAMEMENU_ITEM_SOON: '§c§lNEW '
 DONATE_TITLE: '%s'
 DONATE_SUBTITLE: '§fПоддержал сервер со скидкой 25%! Сайт: §cdivinecraft.ru'
 DONATE_ACTION_BAR: '§fПоддержать проект можно по ссылке §cdivinecraft.ru'
