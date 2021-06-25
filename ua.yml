@@ -2469,12 +2469,13 @@ ERROR_WITH_YOUR_BUKKIT: '§cЗ Вашим акаунтом сталася пом
 CORE_NAME: '§cСервер'
 
 ISLAND_CREATE_TITLE: '§eОстрів успішно створений!'
+ISLAND_CREATE_SUBTITLE: '§7Детальна інформація §f/is'
+ISLAND_REQUIRE_ISSUER_PRESENCE: '§cДля даної дії потрібно перебувати на Вашому острові'
 ISLAND_TOP_LEVEL: 'рівень'
 ISLAND_TOP_LEVEL_HOLO:
  - '§6§lТоп по рівню острова'
  - '§fТоп власників островів'
  - '§fпо рівню їх острова'
-ISLAND_CREATE_SUBTITLE: '§7Детальна інформація §f/is'
 ISLAND_REMOVED_MEMBER: '§6SkyBlock §8| §fВласник острова видалив свій острів, ви були переміщені на спавн'
 ISLAND_MEMBER_BLOCKED: '§6SkyBlock §8| §fПробачте, але ви були внесені в §cсписок небажаних гравців §fцього острову (власник - %s§f)'
 ISLAND_REMOVED: '§6SkyBlock §8| §fОстрів успішно видалений, ви були переміщені на спавн'

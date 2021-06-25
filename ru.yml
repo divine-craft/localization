@@ -3763,13 +3763,14 @@ ERROR_WITH_YOUR_BUKKIT: '§cС Вашим аккаунтом произошла 
 CORE_NAME: '§cСервер'
 
 ISLAND_CREATE_TITLE: '§eОстров успешно создан!'
+ISLAND_CREATE_SUBTITLE: '§7Подробная информация §f/is'
+ISLAND_REQUIRE_ISSUER_PRESENCE: '§cДля данного действия требуется находиться на Вашем острове'
 ISLAND_IGNORE_MEMBER: '§cОшибка, данный игрок является участником острова!'
 ISLAND_TOP_LEVEL: 'уровень'
 ISLAND_TOP_LEVEL_HOLO:
 - '§6§lТоп по уровню острова'
 - '§fТоп владельцев островов'
 - '§fпо уровню их острова'
-ISLAND_CREATE_SUBTITLE: '§7Подробная информация §f/is'
 ISLAND_REMOVED_MEMBER: '§6SkyBlock §8| §fВладелец острова удалил свой остров, вы были перемещены на спавн'
 ISLAND_MINE_HOLO: 'До обновления'
 ISLAND_MINE_UPDATE_HOLO: 'Обновлено!'
