@@ -2533,7 +2533,7 @@ CORE_NAME: '§cServer'
 
 ISLAND_CREATE_TITLE: '§eIsland successfully created!'
 ISLAND_CREATE_SUBTITLE: '§7Detailed information §f/is'
-ISLAND_REQUIRE_ISSUER_PRESENCE: '§cThis action requires your presence on Your Island'
+ISLAND_REQUIRE_ISSUER_PRESENCE: '§cThis action requires your presence on Your Island which is on server %s'
 ISLAND_REMOVED_MEMBER: '§6SkyBlock §8| §fIsland owner delete your island, you were teleport to the spawn'
 ISLAND_REMOVED: '§6SkyBlock §8| §fIsland successfully delete, you were teleported to the spawn'
 SKYBLOCK_PROFILE_GUI_NAME: 'Island settings'

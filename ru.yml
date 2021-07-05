@@ -3764,7 +3764,7 @@ CORE_NAME: '§cСервер'
 
 ISLAND_CREATE_TITLE: '§eОстров успешно создан!'
 ISLAND_CREATE_SUBTITLE: '§7Подробная информация §f/is'
-ISLAND_REQUIRE_ISSUER_PRESENCE: '§cДля данного действия требуется находиться на Вашем острове'
+ISLAND_REQUIRE_ISSUER_PRESENCE: '§cДля данного действия требуется находиться на Вашем острове, который находится на сервере %s'
 ISLAND_IGNORE_MEMBER: '§cОшибка, данный игрок является участником острова!'
 ISLAND_TOP_LEVEL: 'уровень'
 ISLAND_TOP_LEVEL_HOLO:

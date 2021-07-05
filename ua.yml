@@ -2470,7 +2470,7 @@ CORE_NAME: '§cСервер'
 
 ISLAND_CREATE_TITLE: '§eОстрів успішно створений!'
 ISLAND_CREATE_SUBTITLE: '§7Детальна інформація §f/is'
-ISLAND_REQUIRE_ISSUER_PRESENCE: '§cДля даної дії потрібно перебувати на Вашому острові'
+ISLAND_REQUIRE_ISSUER_PRESENCE: '§cДля даної дії потрібно перебувати на Вашому острові, який знаходиться на сервері %s'
 ISLAND_TOP_LEVEL: 'рівень'
 ISLAND_TOP_LEVEL_HOLO:
  - '§6§lТоп по рівню острова'
